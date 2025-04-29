@@ -1,8 +1,8 @@
 <?php
     $host = "localhost";
-    $user = "root";
-    $password = "";
-    $database = "rfid_db";
+    $user = "u347279731_baco_robles";
+    $password = "Baco_Robles_2025";
+    $database = "u347279731_baco_robles_db";
     
     $conn = new mysqli($host, $user, $password, $database);
     if ($conn->connect_error) {
