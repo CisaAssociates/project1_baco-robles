@@ -10,7 +10,7 @@ include 'conn.php';
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="min-h-screen bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50 p-6">
-  <h1 class="text-4xl font-bold mb-10 text-center text-gray-800">Welcome to the System Dashboard</h1>
+  <h1 class="text-4xl font-bold mb-10 text-center text-gray-800">test Welcome to the System Dashboard</h1>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto mt-20">
     <!-- Register Card -->
     <a href="register.php" class="block h-64 w-full rounded-2xl shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1 bg-white hover:bg-blue-50 p-6">
